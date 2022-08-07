@@ -1,13 +1,13 @@
 - name: Suraj Jaiswal
   email: jsuraj@iitk.ac.in
-  webpage: "https://vipular.github.io"
+  webpage: "https://www.linkedin.com/in/suraj-jaiswal-732823167/"
   info: "2020 - Present"
   photo: jsuraj.jpg
   topics: Research Associate
 
 - name: Shiv Narayan Pandey
   email: shivnp@iitk.ac.in
-  webpage: "https://vipular.github.io"
+  #webpage: "https://vipular.github.io"
   info: "2020 - Present"
   photo: placeholder.jpg
   topics: Project Associate
@@ -16,15 +16,15 @@
   email: renusc@iitk.ac.in
   webpage: "https://vipular.github.io"
   info: "2021 - Present"
-  photo: placeholder.jpg
-  topics: Deputy Project Manager
+  photo: placeholder-f.jpg
+  topics: Data Analyst (Music)
 
 - name: Kajal Heer
-  email: kajalh@iitk.ac.in
-  webpage: "https://vipular.github.io"
+  email: kajalheer@iitk.ac.in
+  #webpage: "https://vipular.github.io"
   info: "2022 - Present"
-  photo: placeholder.jpg
-  topics: Deputy Project Manager
+  photo: kajalheer.jpg
+  topics: Data Analyst (Music)
 
 - name: Akshay Raina
   email: akshayr@iitk.ac.in
@@ -33,18 +33,19 @@
   info: "2022 - Present"
   photo: placeholder.jpg
   google-scholar: https://scholar.google.com/citations?user=urGzmJIAAAAJ&hl=en
-  topics: Student Research Associate
+  topics: Data Analyst
 
 - name: Divyanshu Tripathi 
-  email: divyanshut@iitk.ac.in
-  webpage: "https://vipular.github.io"
+  email: divt@iitk.ac.in
+  id: divt
+  webpage: "https://www.linkedin.com/in/divyanshu-tripathi-517b71201"
   info: "2022 - Present"
-  photo: placeholder.jpg
+  photo: divt.jpg
   topics: Project Assistant
 
 - name: Surjit Singh
-  email: monish.keswani@cse.iith.ac.in
+  email: surjits@iitk.ac.in
+  id: surjits
   info: "2021 - Present"
-  affiliations: IISc, Bangalore
-  photo: placeholder.jpg
+  photo: surjits.jpg
   topics: Sr. Project Mechanic

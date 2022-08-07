@@ -55,8 +55,18 @@
   affiliations: IIT Kanpur
   topics: ML for Physics
 
+- name: Akanksha Singh
+  photo: akankss20.jpg
+  desig: PhD Student
+  info: "2020 - Present"
+  id: akankss20
+  email: akankss20@iitk.ac.in
+  #webpage: "https://www.linkedin.com/in/parampreet-singh-b2765721b/"
+  affiliations: IIT Kanpur
+  topics: Spoken Term Detection
+
 - name: Parampreet Singh
-  photo: params21.jpeg
+  photo: params21.jpg
   desig: PhD Student
   info: "2021 - Present"
   id: params21

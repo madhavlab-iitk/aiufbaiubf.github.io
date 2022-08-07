@@ -1,6 +1,6 @@
 
 - name: Swapnil Dey
-  photo: cs19mtech11025.jpg
+  photo: placeholder.jpg
   desig: MS(R) Student
   info: "2019 - Present"
   id: cs19mtech11025
@@ -9,7 +9,7 @@
   topics: Semantic Learning
 
 - name: Jagadeesh K. Babu
-  photo: ai19mtech11001.jpg
+  photo: placeholder.jpg
   desig: MS(R) Student
   info: "2020 - Present"
   id: ai19mtech11001
@@ -33,18 +33,9 @@
   topics: ML with imbalanced data
 
 - name: Gaurav Tank
-  photo: placeholder-f.jpg
+  photo: placeholder.jpg
   desig: MS(R) Student
   info: "2020 - Present"
   id: cs20mtech12001
   email: cs20mtech12001@iith.ac.in
   topics: Music information retrieval
-
-- name: Abhishek Saini
-  id: 
-  email: vaasudev.narayanan@cse.iith.ac.in
-  info: "2020 - Present"
-  webpage: "https://vdevmcitylp.github.io/"
-  photo: vaasudevnarayanan.jpg
-  google-scholar: https://scholar.google.co.in/citations?user=ncXa5P0AAAAJ&hl=en
-  topics: ML for Physics
