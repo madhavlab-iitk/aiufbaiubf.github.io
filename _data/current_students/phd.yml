@@ -21,19 +21,20 @@
 - name: Sumit Kumar 
   info: "2018 - Present"
   email: krsumit@iitk.ac.in
+  id: krsumit
   webpage: https://www.linkedin.com/in/sumit-kumar-368b52170
   affiliations: IIT Kanpur
   photo: krsumit.jpg
   topics: Audio Event Detection
 
-- name: Ankur Singha
-  photo: ankurs.jpg
-  desig: PhD Student
-  info: "20XX - Present"
-  id: ankurs
-  email: ankurs@iitk.ac.in
+- name: Adhiraj Banerjee
+  info: "2019 - Present"
+  email: adhiraj@iitk.ac.in
+  id: adhiraj
+  #webpage: https://www.linkedin.com/in/sumit-kumar-368b52170
   affiliations: IIT Kanpur
-  topics: ML for Physics
+  photo: adhiraj.jpg
+  topics: Representation Learning
 
 - name: Anup Singh
   photo: sanup.jpg
@@ -45,33 +46,21 @@
   affiliations: IIT Kanpur
   topics: Content-based Semantic Audio Search Systems
 
-- name: Vikas Kumar
-  photo: cs18mtech11019.jpg
+- name: Ankur Singha
+  photo: placeholder.jpg
   desig: PhD Student
-  info: "2018 - Present (Co-advisor, Advisor: [Prof Saketha Nath J](https://www.iith.ac.in/~saketha/), IIT-H)"
-  id: cs18mtech11019
-  email: cs18mtech11019@iith.ac.in
+  info: "2020 - Present"
+  id: ankurs
+  email: ankurs@iitk.ac.in
   affiliations: IIT Kanpur
-  webpage: https://piyushi-0.github.io/
-  google-scholar: https://scholar.google.com/citations?user=-9baEZEAAAAJ&hl=en
   topics: ML for Physics
 
-- name: Adhiraj Banerjee
-  photo: cs19resch11002.jpg
-  desig: PhD Student
-  info: "**PMRF Fellow**, 2019 - Present"
-  id: cs19resch11002
-  email: cs19resch11002@iith.ac.in
-  webpage: "https://sites.google.com/view/gowthamabbavaram/abbavaramgowthamreddy"
-  affiliations: IIT Kanpur
-  topics: Semantic Learning
-
 - name: Parampreet Singh
-  photo: ai19resch11001.jpeg
+  photo: params21.jpeg
   desig: PhD Student
-  info: "2019 - Present"
-  id: ai19resch11001
-  email: ai19resch11001@iith.ac.in
-  webpage: "http://www.bhatsnotes.com"
+  info: "2021 - Present"
+  id: params21
+  email: params21@iitk.ac.in
+  webpage: "https://www.linkedin.com/in/parampreet-singh-b2765721b/"
   affiliations: IIT Kanpur
-  topics: Not yet decided
+  topics: To be decided

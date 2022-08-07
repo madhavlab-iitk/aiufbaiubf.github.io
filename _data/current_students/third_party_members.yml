@@ -1,16 +1,9 @@
-- name: Anup Singh
-  email: anups@iitk.ac.in
-  webpage: "https://vipular.github.io"
-  info: "2020 - Present"
-  photo: placeholder.jpg
-  topics: Sr. Student Research Associate
-
 - name: Suraj Jaiswal
   email: jsuraj@iitk.ac.in
   webpage: "https://vipular.github.io"
   info: "2020 - Present"
   photo: jsuraj.jpg
-  topics: Sr. Project Associate
+  topics: Research Associate
 
 - name: Shiv Narayan Pandey
   email: shivnp@iitk.ac.in
