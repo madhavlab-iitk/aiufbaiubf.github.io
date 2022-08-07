@@ -1,0 +1,57 @@
+- name: Anup Singh
+  email: anups@iitk.ac.in
+  webpage: "https://vipular.github.io"
+  info: "2020 - Present"
+  photo: placeholder.jpg
+  topics: Sr. Student Research Associate
+
+- name: Suraj Jaiswal
+  email: jsuraj@iitk.ac.in
+  webpage: "https://vipular.github.io"
+  info: "2020 - Present"
+  photo: jsuraj.jpg
+  topics: Sr. Project Associate
+
+- name: Shiv Narayan Pandey
+  email: shivnp@iitk.ac.in
+  webpage: "https://vipular.github.io"
+  info: "2020 - Present"
+  photo: placeholder.jpg
+  topics: Project Associate
+
+- name: Renu Sameer Chouhan
+  email: renusc@iitk.ac.in
+  webpage: "https://vipular.github.io"
+  info: "2021 - Present"
+  photo: placeholder.jpg
+  topics: Deputy Project Manager
+
+- name: Kajal Heer
+  email: kajalh@iitk.ac.in
+  webpage: "https://vipular.github.io"
+  info: "2022 - Present"
+  photo: placeholder.jpg
+  topics: Deputy Project Manager
+
+- name: Akshay Raina
+  email: akshayr@iitk.ac.in
+  webpage: "https://raina-akshay.github.io"
+  id: akshayr
+  info: "2022 - Present"
+  photo: placeholder.jpg
+  google-scholar: https://scholar.google.com/citations?user=urGzmJIAAAAJ&hl=en
+  topics: Student Research Associate
+
+- name: Divyanshu Tripathi 
+  email: divyanshut@iitk.ac.in
+  webpage: "https://vipular.github.io"
+  info: "2022 - Present"
+  photo: placeholder.jpg
+  topics: Project Assistant
+
+- name: Surjit Singh
+  email: monish.keswani@cse.iith.ac.in
+  info: "2021 - Present"
+  affiliations: IISc, Bangalore
+  photo: placeholder.jpg
+  topics: Sr. Project Mechanic
